@@ -1,0 +1,1 @@
+''' This file provides directory number management via an LDAP user correlation. 1:1 relationship is provided in LDAP for a directory number. '''

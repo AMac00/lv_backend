@@ -1,0 +1,2 @@
+crontab -e
+0 * * * * $(which python3) /var/logvisualizer/lv_backend/task.py > /dev/null 2>&1

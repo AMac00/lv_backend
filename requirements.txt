@@ -1,0 +1,16 @@
+lxml==4.5.0
+bs4
+requests
+paramiko
+paramiko-expect
+flask
+flask_session
+flask_cors
+flask_bcrypt
+flask_jwt_extended
+flask_restx
+flask_pymongo
+apis
+bson
+gunicorn
+Werkzeug==0.16.1
